@@ -1,0 +1,7 @@
+{
+  "name": "Saad Ceiling System Interior Decorators",
+  "description": "A professional interior decoration and ceiling specialist website for Saad Ceiling System, featuring services, gallery, and lead generation tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
